@@ -7,7 +7,7 @@ Hello World
 Project Name : Automation Training
 public class Demo 
 {
-public static void main(string[] args)
+public static void main(String[] args)
 {
 System.out.println("This is the File of MYFirstGithubRepository");
 }
