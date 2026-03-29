@@ -5,3 +5,10 @@ This is my first Github Repository
 Read and Edit File
 Hello World
 Project Name : Automation Training
+public class Demo 
+{
+public static void main(string[] args)
+{
+System.out.println("This is the File of MYFirstGithubRepository");
+}
+}
